@@ -1,0 +1,7 @@
+{
+  "source": "https://github.com/junegunn/fzf",
+  "commit": "b1be3a8be1b833ce5b92fbbac11637643d60a046",
+  "license": "MIT",
+  "snapshot": "bounded source subset; workflows excluded",
+  "purpose": "Independent encrypted storage; not an upstream release or endorsement"
+}
